@@ -1,0 +1,11 @@
+{
+  "name":"返済と家計簿",
+  "short_name":"返済家計簿",
+  "start_url":"./index.html",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f5f7fb",
+  "theme_color":"#1f3b73",
+  "lang":"ja",
+  "icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]
+}
